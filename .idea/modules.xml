@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Data Types and Operators.iml" filepath="$PROJECT_DIR$/.idea/Data Types and Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_udacty.iml" filepath="$PROJECT_DIR$/.idea/Python_udacty.iml" />
     </modules>
   </component>
 </project>
